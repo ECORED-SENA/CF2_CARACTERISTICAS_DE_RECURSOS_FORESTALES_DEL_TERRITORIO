@@ -64,6 +64,14 @@
           .col-lg
             h4.bg-color-17 Clasificación de coberturas de bosques y áreas seminaturales según la metodología <em>Corine Land Cover</em>
             p.mb-0.text-white Se invita a leer el documento Clasificación de coberturas de bosques y áreas seminaturales según la metodología <em>Corine Land Cover</em>, donde se aborda la estructura jerárquica de categorías para clasificar coberturas vegetales, en especial bosques y áreas seminaturales.
+
+    .row.justify-content-center.mb-4
+      .col-auto
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_1_Clasificacion_coberturas_bosques_y_areas_seminaturales.pdf')" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Anexo. Clasificacion coberturas bosques y areasseminaturales
     
     p.mb-5 Con el fin de interpretar adecuadamente las coberturas vegetales, y en particular las coberturas de bosque, Castellanos e IGAC (2010) establecen una clasificación basada en tres criterios principales: los bosques se clasifican, a partir de la densidad en densos y abiertos; de acuerdo con la altura del dosel, en altos y bajos; y según la condición de inundabilidad del terreno donde se ubica el bosque, en inundables y de tierra firme. (p. 40). A continuación, se presenta un esquema resumen de estos criterios:
 

@@ -193,7 +193,7 @@
                 figure
                   img(src="@/assets/curso/tema2/23.svg", data-aos="zoom-in")
               .col-lg-6
-                p(data-aos="fade-left").mb-4.text-white Para conocer sobre los impactos ambientales, lo invitamos a escuchar el siguiente podcast.
+                p(data-aos="fade-left").mb-4.text-white Para conocer sobre los impactos ambientales, lo invitamos a escuchar el siguiente pódcast.
         
                 TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                   texto="Impactos ambientales "

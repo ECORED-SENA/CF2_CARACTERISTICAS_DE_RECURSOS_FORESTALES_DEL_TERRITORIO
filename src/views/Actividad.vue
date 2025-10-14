@@ -320,7 +320,7 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Regulación..',
+              texto: 'Regulación.',
               esCorrecta: false,
             },
             {

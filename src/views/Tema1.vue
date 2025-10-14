@@ -28,7 +28,7 @@
         .row.p-4.justify-content-center.align-items-center
           .col-lg-6.mb-4.mb-lg-0.order-2
             h4 ODS 12: Producción y consumo responsables
-            p.mb-0 Establece como meta que, para el año 2030, se logre la gestión sostenible y el uso eficiente de los recursos naturales, lo cual incluye los recursos forestales. This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
+            p.mb-0 Establece como meta que, para el año 2030, se logre la gestión sostenible y el uso eficiente de los recursos naturales, lo cual incluye los recursos forestales.
           .col-lg-5.order-1.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/tema1/2.png', alt='Texto que describa la imagen')
